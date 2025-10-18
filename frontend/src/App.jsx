@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div><h1>Task Manager Application</h1></div>
+    <div className='text-primary text-3xl text-center'>Task Manager Application</div>
   )
 }
 
